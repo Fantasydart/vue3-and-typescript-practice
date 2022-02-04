@@ -1,2 +1,24 @@
-# vue3-and-typescript-practice
-Vue 3 try to Composition API and first steps in TypeScript
+# vue-ts
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
